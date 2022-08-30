@@ -16,6 +16,11 @@ install SDL2
 sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev
 </pre>
 
+<br><br><br>
+
+https://user-images.githubusercontent.com/10168979/187468009-4e0bdaae-308c-48e6-b3ef-5a022cb76071.mp4
+
+
 <br>
 
 use pcsx-df-1.9 as a reference
