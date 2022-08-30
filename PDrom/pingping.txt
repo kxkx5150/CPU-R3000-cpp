@@ -1,0 +1,70 @@
+PingPing
+========
+
+...blip blip blip bloup...
+
+
+gameplay
+--------
+
+Bat the little ball to and fro between the two players over the centre point. 
+You can angle your bat to affect the balls trajectory and hit the ball while the
+bats in motion to affect it's speed. Attempt to make the other player miss the 
+ball and score yourself a point, 5 points and you win the game.
+
+
+controls
+--------
+
+D-pad/left analog stick  - move the bat left and right
+                  Square - angle the bat up to hit ball lower
+                   Cross - angle the bat down to hit ball higher
+
+If you hit the ball while the bat it moving towards the centre point the ball 
+will increase speed. Hitting the ball while travelling away from the centre 
+point will decrease the balls speed.
+
+
+credits
+-------
+
+code/gfx/sfx : Matt Verran
+testing      : Jon Prestidge
+
+The spiritual successor to my Pong clone: Ping, PingPing was completed in around
+4 days making use of the engine I wrote for my more in depth project Roller. It 
+was inspired by a brief shot of a military computer research game in the Channel 
+4 documentary "Thumb Candy". Stylistically I wanted to create something avant-
+guarde, maybe even an art house game, hence the minimilist sound effects and 
+excessive motion blur. Hopefully I succeded in making something that would never 
+be published commercially :)
+
+mverran@btinternet.com
+www.yarozescene.co.uk
+www.netyaroze-europe.com/~frktlx/
+www.btinternet.com/~mverran/
+
+
+praise for PingPing
+-------------------
+
+"Pretty impressive! You sure your 
+      not trying to take the piss out of everyone else! ;-)"             
+                                - James Burns (SCEE)
+
+"Great game - love the simple simple concept."
+                                - Kenny Millar
+
+"Great game ... very addictive"
+                                - Ben James (Codemasters)
+
+"I find PingPing brilliant. It is 
+            the best Pong rehash ever, really"
+                                - Pal
+
+                   
+
+future
+------
+
+There are no plans to work on further versions of PingPing at this time.

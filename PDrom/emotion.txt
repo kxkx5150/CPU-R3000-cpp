@@ -1,0 +1,350 @@
+EMOTION: Release 5		Final build, ever! -- Friday 16th April 2004
+==================
+
+www.HermitGames.com
+www.Technospective.co.uk/emotion
+
+
+gameplay
+--------
+Knock two balls of the same colour together to eliminate them (10 x 2 points ).
+Knock two differently coloured balls together to make a pod of a third colour.
+Fly your ship into pods to eliminate them (15 points) and replenish your energy.
+Pods will grow into balls if left too long.  Balls explode if left too long 
+(minus 18 points), this depletes ship energy.  Eliminate all balls to complete
+a level.  Run out of energy and it's game over.
+
+If you clear a level without any balls exploding that is classed as a 'PERFECT
+CLEARANCE'.  If you manage to clear a level with some energy and points
+remaining (but one or more balls exploded) then this is classed as an
+'IMPERFECT CLEARANCE'.
+
+tips:
+- Avoid creating pods unless you need a second ball of that colour
+- Fly over pods as soon as possible unless you need them
+- Try not to let balls settle in corners or against walls since it makes
+  them difficult to get back into play.
+- the balls will pulsate quickly when they are a few seconds from exploding
+  but try not to panic -- be cool, be precise.
+
+advanced:
+- Try playing for points and not just level clearance
+- You can create pods on purpose to harvest points
+- Learn which ball colour combinations make which colour pods
+- You can make some levels can last eons and score lots of points with careful
+  pod and ball creation
+
+And don't forget to put on some trippy or floaty music on your stereo --
+some music that will induce calm and precision in you  :)
+
+
+
+bonuses
+-------
+A bonus is given if you eliminate more than two balls of the same colour
+simultaneously (or almost simultaneously).
+
+A bonus is given if you clear the level perfectly and you have more energy
+than you started-off with.  The bigger the surplus the bigger the bonus,
+however you are capped to a maximum energy level so the bonus is limited.
+
+
+
+hi scores & times
+-----------------
+For levels that have been cleared, a high score is recorded (until you
+switch-off the playstation).  It is displayed on the game over screen, and on
+the level selection screen (for the level that is currently highlighted) under
+'level statistics' where a min and max time is also recorded showing
+what was the quickest and slowest time in which you made a perfect clearance,
+for example 10P3 means 10.3 seconds.
+
+An aggregate high score is displayed (on the right hand side of the level
+selection screen underneath the grid of levels) which is a total of all the
+high scores from all the levels.  If you clear all the levels an authorization
+code will appear at the bottom of the screen.  There might be an official high
+score table on www.hermitgames.com or www.technospective.co.uk/emotion, if so
+and your aggregate high score's high enough to be get onto it (and you want
+to get on it) then you must note-down the authorization code very
+very carefully and email it in.  The authorization code should be three
+numbers (three groups of digits).  The first number is the number of levels
+you have cleared perfectly, the second number is the aggregate high score,
+and the last number is a check-sum.  All three numbers must be included in
+the email.  It's probably best to note-down any high score, with authorization
+code, that you are proud-of straight away incase of a power-cut or whatever.
+
+NOTE: there is no memory card access from this game since it is an unlicensed
+      demo.  So remember to note-down your high scores (especially any
+      autorization codes) before switching off your playstation if you want
+      to have a record of them.
+
+NOTE: the min and max times for perfect level completion do not effect high
+      scores or the aggregate -- they are just there for if you want to
+      challenge yourself to complete a level quicker than before, or prolong
+      things longer than before.
+
+
+controls
+--------
+Supports standard D-pad, Dual Shock and neGcon.
+
+D-Pad and Dual Shock:-
+
+      dpad/stick left - rotate ship left
+     dpad/stick right - rotate ship right
+                    X - thrust (or select item)
+               SQUARE - reverse thrust
+                   L2 - left strafe thrust
+                   R2 - right strafe thrust
+               select - menu
+                  tri - exit menu
+
+neGcon:-
+
+     left sholder, or the 'II', buton - forward thrust
+    right sholder, or the 'I', button - reverse thrust.
+                                 left - left strafe thrust
+                                right - right strafe thrust
+                        twist section - rotate the ship
+                                    A - menu/select item
+                                    B - exit menu
+
+    NOTE: if when playing the game, with a neGcon controller, your
+          ship rotates without you twisting the controller then your
+          controller my need calibrating. If so, go into the options
+          menu, make sure your controller twist section is in its
+          central rest position, then exit the options menu...now
+          your neGcon controller (or controllers) will be callibrated.
+
+
+
+tweaking levels
+---------------
+If you get bored of the levels as they are you can tweak them (or at least
+temporarily).  You may want to move, add or delete an object (like a ball or
+an obstacle) to make a level easier, harder or more interesting.
+
+NOTE: that any changes you make only last as long as the level plays...i.e.:
+      when you go back into the level it will have retrurned to how it was
+      originally.   Since this in an unlicensed demo there is no memory card
+      access -- so you cannot save any new level layouts. Thus, it you are
+      advised against putting a lot of work into tweaking a level.
+
+To tweak a level start the level that you are interested in and go into the
+menu by pressing select (or the A button on the neGcon) and choose the 'TWEAK
+LEVEL' option.  You will then get an over-head view of the layout.  A flashing
+white marker will appear over the current object.  You can change the current
+object by pressing left or right.
+
+To move an object select the 'POSITION' option on the menu. Then move the
+object around as if you were flying the ship whilst playing the game (i.e.:
+rotate and thrust controls).  When you have positioned the object as required
+then press select to get back to the menu (or press the A button if you are
+using a neGcon).
+
+The exception to this is an 'elastic' object... the only way you can move
+elastic is to change the objects to which it is attached.  To do this
+move the menu cursor "->" to the 'END A' or 'END B' option and press left
+or right to cycle through which object you want that end of the elastic
+attached to.
+
+To insert a new object position the menu cursor "->" next to the 'INSERT'
+option.  Press left or right until it says the type of object you want
+to insert.  Press X (or A on a neGcon controller) and position the cross
+using left/right/up/down to where you want to insert the object....
+then press X to insert the object (or press the right sholder button a neGcon
+controller).
+
+There is a limit to how many objects can exist on one level.  You will get the
+message "CAN'T CREATE OBJ" if you have reached the over all limit or if
+you have reached the limit for a particular object type.
+The maximum for each type is:- 6 balls, 3 obstacles, 3 pieces of elastic
+and 10 pods.  But it cannot be said how many objects over all you can have
+on a level because it all depends on the performance of the program and the
+playstation.  This is true also for when your playing the game...if you have
+a lot of objects on a level there may be so many that when you knock two
+balls together there may not be enough resourses left to create the pod --
+so a pod does not appear....or a pod may not beable to turn into a ball
+(because balls require more resourses to be displayed than pods).
+
+Other menu options:-  Generally, control the other menu options in a similar
+way to the ones discussed above -- use left/right to change the value and
+X (or A) to select.
+
+To play the level you have tweaked choose the 'QUIT' option or press the
+tri button (or the B button on the neGcon).  The life span of the pods and
+balls will be set back to their stated durations (so any time you spent
+in the level before or during tweaking will not be taken off the life
+time of the ball or pod).
+   
+NOTE:  If you acheived a new high score when playing a tweaked level then
+        it will not count and will not be recorded... well otherwise that
+       would be cheating now wouldn't it?  :)  Tut, tut.  Shame on you.
+
+
+
+
+how to burn the ISO image using 'Nero Burning ROM 6'
+----------------------------------------------------
+
+Run Nero Burning ROM.
+
+If a 'New Compilation' window appears then close it with the 'Cancel' button.
+
+Insert your blank CD into your CD drive and select that CD drive (on the
+tool bar of the 'Nero Burning ROM' window.  Apparantly blank CDs with the
+darker blue recording surfaces seem to be best for burning PSOne games.
+I have used: 'Verbatim DataLifePlus Super AZ0 Cristal CD-R 48x 700MB'
+CDs with no problems.
+
+Click on 'Recorder' on the top menu bar or the 'Nero Burning ROM' window.
+
+On the menu that drops-down click on 'Burn Image...'.
+
+In the 'Open' window that appears, find the ISO image that you unzipped
+(probably called something like 'emotion_R5_PAL.iso') and double click on it.
+
+Now the 'Burn Compilation' window should appear.
+
+Make sure the 'write' and the 'Finalize CD' options have a tick beside them.
+Click on them as appropriate if not.
+
+If the 'Simulation' option has a tick against it then click on it to remove
+the tick.
+
+I leave the 'Determine maximum speed' option unticked, but I don't suppose
+it makes any difference either way.
+
+Select a the lowest speed available for that drive (e.g.: 4x).  Infact it
+would probably work OK if you burnt it at the maximum speed -- but burning
+at very low speeds is some kind of superstitsion that many people seem to
+indulge in for burning games, and anyway it is a very small image so it won't
+take long at any speed.
+
+For the 'Write method' select 'Disc-at-once'.
+
+Enter the number of copies you want, and you may as well put a tick by the
+'Buffer underrun protection' option.
+
+Then click on the 'Burn' button.... and once it's finished: click on 'OK' then
+'Done', and try the disc in your mod-chipped playstation1 or PSOne.
+
+If it does not work try burning a disc on a friend's PC since not all CD-R
+writers seem to beable to write PSOne games.  For example my
+'Pioneer DVD-RW-105' works fine, but my 'Samsung CD-R/RW SW208B' just
+turns-out coffee mug coasters.  You could also try a different brand of CD-R.
+Make sure your playstation is mod chipped.   By the way, I'm not sure if the
+game runs on a mod-chipped PS2.
+
+
+
+
+history
+-------
+
+Matt:
+Well this is weird. Last time I looked at this code I was a naive student 
+working from a tiny box bedroom in a shared house somewhere in Manchester. Aphex
+Twin on the stereo (RDJ Album), sure this game was going to get signed, 
+published, marketed and make us millions...
+
+I look around where I'm sitting now, workplace still a bedroom? Yep (well for 
+the stuff I love making anyway). Shared house? Nope, thank god, own flat now. 
+Manchester? It somehow became Hull and then, even more mysteriously, I ended up 
+here in London. Aphex Twin still on the stereo? Of course (drukqs). Published 
+games, lots of cash? It's probably best if I don't warm up my cynicism for the 
+commercial games industry, lets just say we worked bloody hard, and we didn't 
+make millions.
+
+But anyway I'm putting the finishing touches to a game I started writing with 
+someone I met over the internet and ended up working with in real life. We 
+shared the fun of getting our games canned, eating at Yankee Burger, being 
+derided via email, being frozen by the Humber wind and ultimately being made 
+redundant. This was the first game me and Jon worked on together, and it was 
+probably the most fun to create, I hope you like it.
+
+
+
+Jon:
+My memories are becomming very murky now of how things first started-out on
+this game.  At the time I was working on a project that had gotten hopelessly
+out of control... it had started out as a first person shoot`em-up and
+developed into a snow-balling human physics emulation project.  When you're
+working on a project commercially you're considerate of deadlines and your
+employer's costs, but when it's just your own time and your own money
+(and you didn't have a dead-line to begin with anyway) then a project can
+grow and grow and grow.
+
+So as it happens this was a perfect project for me because I had already done
+a lot of physics (mechanics) work.  The physics engine that I was writing
+was more complex though and the main work in getting the physics of
+Emotion to work, was in stripping-out the unnecessary stuff from my existing
+physics engine so that it would work in just a 2D plane and so that
+it would be fast enough to get a reliable 50fps or 60fps.
+
+The most fun bit to program in this game was the stretchy and saggy elastic
+graphics... I was toying with whether to try it or not because it's one of
+those things that can take a lot longer that you think and we only had five
+weeks to finish the whole demo initially.  But I tried it and it worked
+practically first time and looked very effective...even considering I had
+very few polygons to play with because resources were tight.  Think how
+beautiful the same concept would look on a current day system with loads more
+polygons and high res.
+
+Unlike with my snow-balling project we finished release one of Emotion in the
+allotted time of 5 weeks ready for prospective publishers to see... the
+graphics have been tweaked and so on since then but essentially the
+game was all there from the off.   Then....then... a whole lot of pain
+followed -- mainly the pain of waiting and of dashed hopes after various
+fallen through deals with this and our other Darkhex demos....I expect it is
+the same kind of experience for novelists when they finish their book and
+excitedly send off their manuscrip to publishers.
+
+So here it is....we almost forgot about it all together, such was our mental
+block of the traumatic period it kicked-off.  So as soon as it occured to us
+that our little ol' game was sitting there unreleased, unplayed, and unloved,
+we raced to make a few last mods and a few more levels and get it out there
+to whoever wanted it -- free of charge.
+
+Thanks to all the Yarozers who gave us encouragement during those days when
+Matt, Marc and me were waiting for publishers to get back to us on this and
+other demos...I hope you enjoy playing this living piece of that history.
+
+
+extras
+------
+If you're interested in video game development there is a directory called
+'INTEREST'.  The interest directory is actually burnt onto the CD (that way
+it gets propergated sould you copy the disc).  To look at it simply put
+the CD into you PC's CD drive and access the files in the normal way.
+
+The 'interest' directory just contains some documents that we happened to
+have lying around to do with the development of the game.
+
+
+
+credits
+-------
+code/gfx/sfx/levels: 
+  Jon Prestidge
+  Matt Verran
+
+guest levels:
+  Andrew Partington.
+
+contact and more fun stuff:
+  http://www.hermitgames.com
+  http://www.technospective.co.uk/emotion
+
+warning:
+  Every level has been 'imperfectly cleared' during testing but not all
+  have been 'perfectly cleared'... the last few were just too hard... so
+  although I have tried to make sure they all are possible, I can't be 100%
+  sure -- you have been warned :)   Don't go insane nor nuffin' will you?
+
+disclaim:
+  This is a demo only. We make no claim to the E-Motion name or concept, this 
+  is merely our interpretation of E-Motion on the Playstation one.
+
+
+

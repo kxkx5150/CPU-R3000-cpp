@@ -1,0 +1,67 @@
+Robot Ron OPM
+=============
+
+...if you play def-en-der rack a bigger hy-per-space, so!...
+
+
+gameplay
+--------
+
+Robot Ron (the silver thing) has to blast the enemies (green/blue/orange
+things) and collect powerups (pink things) to try and increase his "score".
+Thats it.
+
+
+controls
+--------
+
+Robot Ron is playable with the digital pad but a Dual Shock (analog) is
+recommended for the full fun experience
+
+diigtal mode:
+
+- You use the D-pad to move Ron about
+- You use Cross, Triangle, Square and Circle to fire in the corresponding
+  direction at stuff
+
+analog mode:
+
+- You use the left stick to move Ron about
+- You use the right stick to point and fire at stuff
+
+
+gameplay hints
+--------------
+
+- the spawning lasers can't hurt you, but it's best to try and stay away from 
+them because thats where the enemies come from
+
+- keeping your shots trained on the spawners is a great idea if you have enough 
+spare bullets
+
+- hiding in the corner can get you through some levels, but not others
+
+- hanging about with one enemy left to try and get more powerups won't work, but 
+it will let you have a bit or a rest before the next stage
+
+
+credits
+-------
+
+code/gfx/sfx : Matt Verran
+testing      : Jon Prestidge
+thanks       : Marc Lambert, Derek Da Silva, Mary
+
+The original "chrimble blasting fun" version was completed in 3 days. The OPM
+changes were added on few sunny afternoons in August.
+
+mverran@btinternet.com
+www.yarozescene.co.uk
+www.netyaroze-europe.com/~frktlx/
+www.btinternet.com/~mverran/
+
+future
+------
+
+This is most probably the last version of Robot Ron, bigger and better things 
+and all that.

@@ -1,0 +1,84 @@
+ROLLER
+======
+
+(c)2001 Matt Verran
+
+
+Features
+--------
+
+- 20 Levels
+- Multiple Difficulty Settings
+- Score Challenges for Completed Levels
+- Unlockable Cheats/Bonus Items
+- Fully 3D Gouraud Polygonal Game
+- Special Effects Including Particles
+- 640x512 Hires Graphics
+- Smooth 50hz Screen Update
+- Level Instant-Replay
+- PC Win9x Level Editor
+
+
+How To Play
+-----------
+
+In Roller your aim is to move the rotund hero Rollo from his start position to the exit in the alloted time, collecting the requisite number of diamonds along the way. You do not directly control Rollo in the game, instead you alter the environment by tilting to make Rollo move and springing it to make him jump.
+
+
+Controls
+--------
+
+Menu:
+                   X - Select Option
+                 Tri - Back to Previous Menu
+
+
+Game:
+
+   Left Analog Stick - Tilt Environment
+                   X - Pull Environment
+
+Tilting your environment will cause the ball to roll in the direction tilted.
+
+Pulling your environment will launch the ball on release, you more you pull the higher the ball will be launched.
+
+
+Game Modes
+----------
+
+Normal Game (easy & hard):
+  Play through 20 levels collecting diamonds to open the level exit. Hard levels have harder time limits and require more diamonds to be collected. Getting to a level opens it in the "Single Level" game mode, you must get to a level in hard mode to open it in "Score Challenge Mode".
+
+Single Level (practice & score challenge):
+  Practice single levels from the normal game. Completing score challenges earns you a diamond, diamonds unlock cheats. See the "Cheats" section in the options menu to check how many diamonds you have, which cheats are available and to turn cheats on/off.
+
+
+Development
+-----------
+
+Roller was started on 28/6/01 immediately after it was announced by SONY that Net Yaroze games would be featured on the Official Playstation Magazines coverdisk once again. The idea for roller had been brewing for a while and the opportunity to get my game out to around 500,000 gamers provided the catalyst to get me working. Originally convieved as a much simpler game without the jump feature or diamonds and an estimated completion time of a few days Roller soon grew into a much bigger project its full time development period lasting around x weeks. During development small peices of information and alpha screenshots were posted on the Yaroze newsgroups to built anticipation. Roller was released and submitted for OPM consideration on xx/xx/01.
+
+
+Praise For Roller (cheeky eh?)
+------------------------------
+
+"The visuals of roller look really yummy!"
+      -Jon Prestidge, Darkhex
+
+"Wowzers!!! Really cool"
+      -Andrew "Max" Murray
+
+"Wow! That's incredible. Really commercial quality."
+      -Omar Metwally
+
+"I'm curious.. do you eat or sleep? ... As usual Matt you seem to be setting the standard."
+      -John "Quietbloke" Wojcik
+
+"if you keep making these stunning games we wont be able to keep up!"
+      -Chris Wallace
+
+"Whoa, that looks excellent!!"
+      -Andrew Partington
+
+"Very professional looking."
+      -Martin Keats

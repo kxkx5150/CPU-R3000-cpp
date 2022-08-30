@@ -1,0 +1,46 @@
+Ping
+====
+A game by Matt Verran
+For the SONY Net Yaroze
+1999-2000
+(v1.00)
+
+How To Play
+===========
+
+One Player:
+Keep hitting the ball against the wall, every time
+you do you will get a point, or two points if you hit
+a fast ball. You have five balls to score as high as
+you can. Will you be able to (will you want to) acheive
+the title of Hardcore Ping Freak?
+
+Two Player:
+Bash the Ball from one end to the other using the
+player controlled Bats. If you miss then the other
+player will score a point. First to 15 wins. 
+
+
+Controls
+========
+Use Dpad or right Analog Stick to move your Bat. Start
+pauses the game.
+
+The angle of the shot is determined by where on the
+bat the ball hits. By pushing the controller towards
+the opposing player you can hit a fast shot and by
+pulling away a slow one.
+
+
+Production Notes
+================
+Created between 07-11-99 and 15-02-00 as an effort
+to get a simple but finished game released.
+
+website:   http:\\www.netyaroze-europe.com\~frktl
+email:     matt@frktl.freeserve.co.uk
+thanks to: TOM, All The Eclipse Teams and everyone
+           who helped me in the NG's...
+
+
+Chu?Chu?
